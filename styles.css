@@ -78,3 +78,10 @@ html, body {
     margin: 0 auto;
     padding: 0 0.5em;
 }
+.about-band-image{
+    float: left;
+    height: 250px;
+    width: 250px;
+    margin: 15px;
+    border-radius: 50%;
+}
