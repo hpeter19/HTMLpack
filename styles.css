@@ -105,3 +105,34 @@ html, body {
     height: 30px;
     width: 30px;
 }
+.btn{
+    text-align: center;
+    vertical-align: middle;
+    padding: .67em;
+    cursor: pointer;
+}
+.btn-header{
+    margin: .5em 15% 2em 15%;
+    color: white;
+    border: 2px solid rgb(74, 18, 165);
+    background-color: rgb(166, 213, 24);
+    border-radius: 0;
+    font-size: 1.5em;
+    font-weight: lighter;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+.btn-header:hover{
+    background-color: rgb(192, 211, 137);
+}
+.btn-play{
+    display: block;
+    margin: 0 auto;
+    color: rgb(74, 18, 165);
+    font-size: 4em;
+    border-radius: 50px;
+    padding: 0;
+    width: 100px;
+    height: 100px;
+
+}
